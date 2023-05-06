@@ -1,2 +1,6 @@
-# PowerAutomate
-Repository to store Power Automate snippets and Projects
+# Power Automate Samples
+
+
+This repository contains Workflows that demonstrate different usage patterns for Power Automate.
+
+
