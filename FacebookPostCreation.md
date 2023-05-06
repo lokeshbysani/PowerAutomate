@@ -9,16 +9,22 @@ This Project performs below actions:
 * Users submit responses in Microsoft forms is captured by Power Automate cloud flow. 
 * Data collected from form and data is formatted.
 * Create a post in facebook page with the formatted data. 
+* Send an confirmation email to the page owner.
 
 
 ### Tools used
-Power Automate Cloud flow , Microsoft Forms , Facebook API.
+Power Automate Cloud flow , Microsoft Forms , Facebook API, Outlook.
 
 ### Benefits
 * Posts are published instantly after user submits the form. This saves time and increases efficiency
 * Improved Data Accuracy and no scope for error.
 * Handles large amount of requests with accuracy allowing user to focus on other important tasks.
 
+### Architecture Diagram
 
+![Technical Design](/Assets/FacebookPostCreation.JPG)
 
+### Flow Design
+
+![Technical Design](/Assets/PostCreation_Flow.JPG)
 
