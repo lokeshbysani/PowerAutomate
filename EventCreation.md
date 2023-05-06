@@ -15,7 +15,11 @@ This Project performs below actions:
 ![Technical Design](/Assets/)
 
 ### Tools used
-Power Automate Cloud flow,Google forms,Google Apps Script,Google Sheets,Outlook.
+* Power Automate Cloud flow
+* Google forms
+* Google Apps Script
+* Google Sheets
+* Outlook.
 
 ### Benefits
 * **Saves time**: The entire workflow is automated, freeing upto **5 hours** of time per week that would have been spent manually managing event registrations and sending confirmation emails.
