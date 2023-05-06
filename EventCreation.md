@@ -18,7 +18,7 @@ This Project performs below actions:
 Power Automate Cloud flow,Google forms,Google Apps Script,Google Sheets,Outlook.
 
 ### Benefits
-* **Saves time**: The entire workflow is automated, freeing upto 5 hours of time per week that would have been spent manually managing event registrations and sending confirmation emails.
+* **Saves time**: The entire workflow is automated, freeing upto **5 hours** of time per week that would have been spent manually managing event registrations and sending confirmation emails.
 * **Reduces errors**: Automation reduces the likelihood of human error, resulting in more accurate event registration and confirmation processes.
 * **Enhances attendee experience**: Attendees receive confirmation emails quickly and are added to the event promptly, creating a positive experience for them.
 * **Improves planning process**: The automated process simplifies event management, providing organizers with more time to focus on planning and executing the event.
