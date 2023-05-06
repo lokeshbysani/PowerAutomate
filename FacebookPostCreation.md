@@ -11,6 +11,9 @@ This Project performs below actions:
 * Create a post in facebook page with the formatted data. 
 * Send an confirmation email to the page owner.
 
+### Architecture Diagram
+
+![Technical Design](/Assets/FacebookPostCreation.JPG)
 
 ### Tools used
 Power Automate Cloud flow , Microsoft Forms , Facebook API, Outlook.
@@ -20,11 +23,8 @@ Power Automate Cloud flow , Microsoft Forms , Facebook API, Outlook.
 * Improved Data Accuracy and no scope for error.
 * Handles large amount of requests with accuracy allowing user to focus on other important tasks.
 
-### Architecture Diagram
 
-![Technical Design](/Assets/FacebookPostCreation.JPG)
-
-### Flow Design
+### Flow
 
 ![Technical Design](/Assets/PostCreation_Flow.JPG)
 
