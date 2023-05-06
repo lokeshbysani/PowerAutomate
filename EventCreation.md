@@ -1,7 +1,7 @@
 # Event Registrations and Confirmations automated with Power Automate Cloud Flow!
 
 ### Summary
-Automate event registration and confirmation emails with Google Forms, Sheets, and Power Automate. Streamline your workflow, simplify event management, and enhance the planning process.
+Automate event registration and confirmation emails with Google Forms, Sheets, and Power Automate. 
 
 This Project performs below actions:
 
