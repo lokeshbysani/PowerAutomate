@@ -16,7 +16,7 @@ This Project performs below actions:
 ![Technical Design](/Assets/FacebookPostCreation.JPG)
 
 ### Tools used
-Power Automate Cloud flow , Microsoft Forms , Facebook API, Outlook.
+Power Automate Cloud flow , Microsoft Forms ,Microsoft Excel, Facebook API, Outlook.
 
 ### Benefits
 * Posts are published instantly after user submits the form. This saves time and increases efficiency
