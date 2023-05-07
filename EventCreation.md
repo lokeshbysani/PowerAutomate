@@ -5,7 +5,6 @@ Automate event registration and confirmation emails with Google Forms, Sheets, a
 
 This Project performs below actions:
 
-* Users submit responses in Microsoft forms is captured by Power Automate cloud flow. 
 * Google Forms are submitted by users, and the responses are automatically stored in Google Sheets.
 * A Google Apps Script fetches the data related to each day, and only the rows relevant to that data are retrieved in another sheet.
 * Power Automate reads the data in that sheet and sends confirmation emails to the users, adding them to the event.
