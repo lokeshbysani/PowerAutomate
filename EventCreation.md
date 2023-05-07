@@ -12,7 +12,7 @@ This Project performs below actions:
 
 ### Architecture Diagram
 
-![Technical Design](/Assets/)
+![Technical Design](/Assets/EventCreation.JPG)
 
 ### Tools used
 * Power Automate Cloud flow
