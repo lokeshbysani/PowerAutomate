@@ -26,6 +26,5 @@ This Project performs below actions:
 * **Enhances attendee experience**: Attendees receive confirmation emails quickly and are added to the event promptly, creating a positive experience for them.
 * **Improves planning process**: The automated process simplifies event management, providing organizers with more time to focus on planning and executing the event.
 
-### Flow
 
-![Technical Design](/Assets/)
+
